@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trips</string>
+    <string name="greeting">Hi there,</string>
+    <string name="question">Where do you wanna go ?</string>
+    <string name="question_1">Where do you want to go ?</string>
+    <string name="top_trips">Top trips</string>
+    <string name="trips">Trips</string>
+    <string name="location">พิกัด:</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="opened">เวลาเปิด:</string>
+    <string name="more">อ่านเพิ่มเติม:</string>
+</resources>
